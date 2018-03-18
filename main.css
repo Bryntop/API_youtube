@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: yellow;
+}
+
+.result-item {
+	width: 196px;
+	display: inline-block;
+	margin: 20px;
+	vertical-align: top;
+	font-size: 13px;
+}
+
+.result-item span {
+	font-size: 11px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #4286f4;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.js-search-results {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
